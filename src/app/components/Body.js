@@ -28,7 +28,7 @@ function Body() {
               <span className="mr-3 animate-pulse">🎯</span> Our Vision
             </h2>
             <p className="text-lg leading-relaxed opacity-90">
-              To instill in our pupils a culture of work and faith that promotes self-confidence to positively face life's challenges now and in the future.
+              To instill in our pupils a culture of work and faith that promotes self-confidence to positively face challenges now and in the future.
             </p>
           </div>
 

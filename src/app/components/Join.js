@@ -10,9 +10,9 @@ function Join() {
         </div>
         
         <p className="text-base sm:text-lg leading-relaxed mb-12 text-center text-[#2C5738] px-4 sm:px-0">
-          Been hunting for a school that will nurture your child(ren)'s curiosity and propel them towards a brighter future?
+          Been hunting for a school that will nurture curiosity and propel children towards a brighter future?
           Your search ends here! Become a part of Micmary and watch as we mold your child into a confident and
-          compassionate leader of tomorrow. Don't dawdle, spots fill up faster than a leopard on a caffeine rush!
+          compassionate leader of tomorrow. Do not dawdle, spots fill up faster than a leopard on a caffeine rush!
         </p>
         
         <div className="flex flex-col sm:flex-row justify-center gap-4 px-4 sm:px-0">
